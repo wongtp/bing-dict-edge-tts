@@ -13,9 +13,14 @@
 
 发音差异对比
 
-![原始机器发音](assets/diff3.mp3)
-
-![Edge-tts发音](assets/diff4.mp3)
+<audio controls>
+  <source src="assets/diff3.mov" type="audio/mov">
+  Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="assets/diff4.mov" type="audio/mov">
+  Your browser does not support the audio element.
+</audio>
 
 <br>
 
