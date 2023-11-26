@@ -13,9 +13,7 @@
 
 #### 发音差异对比
 
-https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/0e399ac1-7059-4cd5-8440-f82df31983a4 
-
-https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/a6bfa9a4-ddd6-43f1-9aae-1932ec6c3d0f
+https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/b36955f0-6680-49c4-a1fd-0f22f560777b
 
 
 <br>
@@ -24,13 +22,6 @@ https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/a6bfa9a4-ddd6-43f1-
 ![差异对比1](assets/diff1.png)
 ![差异对比2](assets/diff2.png)
 
-<br>
-
-# 怎么使用？
- 1. 进入浏览器拓展管理页面；
- 2. 打开浏览器开发者选项；
- 3. 加载已解压的拓展程序；
- 4. 选择 src 目录；
 
 <br>
 
@@ -44,6 +35,14 @@ https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/a6bfa9a4-ddd6-43f1-
  - ⚠️ 目前只能在在 Edge 浏览器中使用；
  - ⚠️ 在翻页时例句发音图标会还原成原来的样子；
 
+<br>
+
+# 怎么使用？
+由于没有上架到插件商店，所以需要自行手动安装
+ 1. 进入浏览器拓展管理页面；
+ 2. 打开浏览器开发者选项；
+ 3. 加载已解压的拓展程序；
+ 4. 选择 src 目录；
 
 <br>
 
