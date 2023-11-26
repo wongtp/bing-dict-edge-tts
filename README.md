@@ -13,14 +13,9 @@
 
 发音差异对比
 
-<audio controls>
-  <source src="assets/diff3.mov" type="audio/mov">
-  Your browser does not support the audio element.
-</audio>
-<audio controls>
-  <source src="assets/diff4.mov" type="audio/mov">
-  Your browser does not support the audio element.
-</audio>
+机器发音 | Edge-TTS 发音
+:-: | :-:
+<video src='assets/diff3.mov' width="180" /> | <video src='assets/diff4.mov' width="180" />
 
 <br>
 
