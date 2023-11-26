@@ -11,15 +11,16 @@
 
 <br>
 
-发音差异对比
+#### 发音差异对比
 
-机器发音 | Edge-TTS 发音
-:-: | :-:
-<video src='assets/diff3.mov' width="180" /> | <video src='assets/diff4.mov' width="180" />
+https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/0e399ac1-7059-4cd5-8440-f82df31983a4 
+
+https://github.com/wongtp/bing-dict-edge-tts/assets/22502407/a6bfa9a4-ddd6-43f1-9aae-1932ec6c3d0f
+
 
 <br>
 
-界面差异对比
+#### 界面差异对比
 ![差异对比1](assets/diff1.png)
 ![差异对比2](assets/diff2.png)
 
