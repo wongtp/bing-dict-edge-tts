@@ -1,5 +1,5 @@
 <h1 align="center">bing-dict-edge-tts</h1>
-<p align="center">这是一个可以把浏览器 bind 词典句子发音替换换 Edge-TTS 发音引擎的工具</p>
+<p align="center">这是一个可以把浏览器 bind 词典句子发音替换为 Edge-TTS 发音引擎的工具</p>
 <p align="center">
   <a rel="noreferrer noopener" href="#"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white&color=blue">
   </a>  
