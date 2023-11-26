@@ -13,14 +13,9 @@
 
 发音差异对比
 
-<audio controls>
-  <source src="assets/diff3.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
-<audio controls>
-  <source src="assets/diff4.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+![原始机器发音](assets/diff3.mp3)
+
+![Edge-tts发音](assets/diff4.mp3)
 
 <br>
 
