@@ -93,13 +93,13 @@ function bingThesaurusesSpeaker() {
 }
 
 function createSpeakerTag(text) {
-    var optimizeText = text.replace(/ sb /g, " somebody ")
+    var optimizeText = text.replace(/ sb\/sth/g, " somebody or something")
+                           .replace(/ sb /g, " somebody ")
                            .replace(/ sb;/g, " somebody;")
                            .replace(/ sb./g, " somebody.")
                            .replace(/ sth /g, " something ")
                            .replace(/ sth;/g, " something;")
-                           .replace(/ sth./g, " something.")
-                           .replace(/ sb\/sth/g, " somebody or something ");
+                           .replace(/ sth./g, " something.");
     optimizeText = optimizeText.endsWith(" sb") ? optimizeText.replace(/(.*) sb/, "$1 somebody") : optimizeText;
     optimizeText = optimizeText.endsWith(" sth") ? optimizeText.replace(/(.*) sth/, "$1 something") :  optimizeText;
 
