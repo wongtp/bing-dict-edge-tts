@@ -41,10 +41,20 @@ const bindSpeaker = () => {
 }
 
 function createSpeakerTag(text) {
+    var optimizeText = text.replace(/ sb /g, " somebody ")
+                           .replace(/ sth;/g, " somebody;")
+                           .replace(/ sth./g, " somebody.")
+                           .replace(/ sth /g, " something ")
+                           .replace(/ sth;/g, " something;")
+                           .replace(/ sth./g, " something.")
+                           .replace(/ sb\/sth/g, " somebody or something ");
+    optimizeText = optimizeText.endsWith(" sb") ? optimizeText.replace(/(.*) sb/, "$1 somebody") : optimizeText;
+    optimizeText = optimizeText.endsWith(" sth") ? optimizeText.replace(/(.*) sth/, "$1 something") :  optimizeText;
+
     var link = document.createElement('a');
     link.href = 'javascript:;';
     link.textContent = '🔊';
-    link.onclick = () => speak(text);
+    link.onclick = () => speak(optimizeText);
     return link;
 }
 
